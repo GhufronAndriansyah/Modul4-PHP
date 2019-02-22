@@ -1,0 +1,9 @@
+# Modul4-PHP
+Perulangan Do-While
+![alt text](https://github.com/GhufronAndriansyah/Modul4-PHP/blob/master/PerulanganDo-While.php)
+Perulangan For
+![alt text](https://github.com/GhufronAndriansyah/Modul4-PHP/blob/master/PerulanganFor.png)
+Perulangan Foreach
+![alt text](https://github.com/GhufronAndriansyah/Modul4-PHP/blob/master/PerulanganForeach.png)
+Perulangan While
+![alt text](https://github.com/GhufronAndriansyah/Modul4-PHP/blob/master/PerulanganWhile.png)
